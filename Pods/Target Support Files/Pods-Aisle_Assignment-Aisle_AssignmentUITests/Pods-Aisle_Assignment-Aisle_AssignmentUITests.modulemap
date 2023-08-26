@@ -1,0 +1,6 @@
+framework module Pods_Aisle_Assignment_Aisle_AssignmentUITests {
+  umbrella header "Pods-Aisle_Assignment-Aisle_AssignmentUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
